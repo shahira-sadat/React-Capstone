@@ -17,16 +17,17 @@
   font-size: 13px;
   font-weight: 600;
   color: #e9ecef;
-  background-color: #212529;
-  border: 1px solid #343a40;
+  background: #35548B;
+  border: 1px solid rgba(0, 0, 0, 0.2);
   padding: 10px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .filteredLeague {
   display: flex;
   justify-content: center;
   color: #e9ecef;
-  background-color: #4f5d75;
+  background-color: #35548B;
   box-sizing: border-box;
   margin-top: 80px;
   padding: 25px;
