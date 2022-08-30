@@ -1,5 +1,5 @@
-# React Template
-> This repo contains React Template, <br> it contains all the basic configuration for react app including linters.
+# React Capstone
+> This repo contains React Capstone.
 
 
 ## Built With
@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-Can check the live demo [here](https://shahira-sadat.github.io/)
+Can check the live demo [here]()
 
 
 ## Authors
