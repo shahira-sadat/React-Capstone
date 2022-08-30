@@ -19,6 +19,8 @@
 .teamDetailsInfo {
   font-size: 18px;
   line-height: 1.4;
+padding-left: 5rem;
+padding-right: 5rem;
 }
 
 .teamDetailsTitle {
