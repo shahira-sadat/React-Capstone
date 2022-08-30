@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
-import { fetchLeagues } from '../../redux/leagues/leagues';
-import '../App.css';
+import { fetchLeagues } from '../redux/leagues/leagues';
+import './Categories.module.css';
 
 function Categories() {
   // const leagues = useSelector((state) => state.leagues);
