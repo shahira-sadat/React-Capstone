@@ -67,3 +67,6 @@ Give a ⭐️ if you like this project!
 - [Microverse](https://www.microverse.org/)
 - Thanks to [Ali Jendoubi](https://github.com/ichala) for making the Football Leagues API that used in this project.
 - Thanks to [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio) for App design template.
+
+License 📝
+This project is [MIT](../React-Capstone/LICENSE) licensed.
