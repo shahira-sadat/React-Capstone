@@ -4,6 +4,9 @@
 > It shows a number of football leagues along with the teams that are playing in that league. 
 > By clicking on a team, user can see details about that team in a separate page.
 
+<img width="1440" alt="Screen Shot 2022-08-31 at 4 02 25 AM" src="https://user-images.githubusercontent.com/53530780/187567936-a85ef46b-5aaa-4a13-9e20-d2e145c78ecd.png">
+<img width="1440" alt="Screen Shot 2022-08-31 at 4 04 25 AM" src="https://user-images.githubusercontent.com/53530780/187567959-d3980a1c-a711-45be-a212-7604e40e927b.png">
+
 ## Built With
 
 - HTML
