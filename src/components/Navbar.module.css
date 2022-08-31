@@ -1,0 +1,24 @@
+
+.header {
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #4369b2;
+  padding: 0 10px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  color: #e9ecef;
+  font-size: 16px;
+}
+
+.navIcon {
+  font-size: 19px;
+  color: #e9ecef;
+  margin: 0 10px;
+}

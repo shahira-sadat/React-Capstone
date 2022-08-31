@@ -1,12 +1,18 @@
-# React Capstone
-> This repo contains React Capstone.
+# Football Leagues
 
+> Football Leagues is a web application. 
+> It shows a number of football leagues along with the teams that are playing in that league. 
+> By clicking on a team, user can see details about that team in a separate page.
 
 ## Built With
 
+- HTML
+- CSS
 - JavaScript
 - React
-- CSS
+- Redux
+- [Football Leagues API](https://github.com/ichala/football-api-microverse)
+
   
 ## Getting Started
 
@@ -20,7 +26,7 @@ To get a local copy up and running follow these simple example steps.
   
 ### Setup
 
-    git clone https://github.com/shahira-sadat/react-template
+    git clone https://github.com/shahira-sadat/React-Capstone
 
 ### Install
     npm install
@@ -35,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-Can check the live demo [here]()
+Can check the live demo [here](https://football-leagues-capstone.herokuapp.com/)
 
 
 ## Authors
@@ -56,3 +62,5 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - [Microverse](https://www.microverse.org/)
+- Thanks to [Ali Jendoubi](https://github.com/ichala) for making the Football Leagues API that used in this project.
+- Thanks to [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio) for App design template.
