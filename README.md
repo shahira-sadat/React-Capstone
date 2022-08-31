@@ -72,4 +72,4 @@ Give a ⭐️ if you like this project!
 - Thanks to [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio) for App design template.
 
 License 📝
-This project is [MIT](../React-Capstone/LICENSE) licensed.
+This project is [MIT](https://github.com/shahira-sadat/React-Capstone/blob/main/LICENSE) licensed.
