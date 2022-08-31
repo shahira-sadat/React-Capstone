@@ -71,5 +71,5 @@ Give a ⭐️ if you like this project!
 - Thanks to [Ali Jendoubi](https://github.com/ichala) for making the Football Leagues API that used in this project.
 - Thanks to [Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio) for App design template.
 
-License 📝
+## License 📝
 This project is [MIT](https://github.com/shahira-sadat/React-Capstone/blob/main/LICENSE) licensed.
