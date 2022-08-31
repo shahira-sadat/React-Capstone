@@ -41,6 +41,9 @@ To get a local copy up and running follow these simple example steps.
 ### Deployment
     npm run deploy
 
+ ### Testing
+    npm run test   
+
 
 ## Live Demo
 
